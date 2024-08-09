@@ -1,0 +1,12 @@
+{
+  "name": "simple-pub-sub",
+  "version": "1.0.0",
+  "description": "Simple PubSub test harness",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "",
+  "license": "MIT"
+}
