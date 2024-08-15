@@ -8,5 +8,5 @@
     "test": "node index.js"
   },
   "author": "",
-  "license": "MIT"
+  "license": "CC0-1.0"
 }
